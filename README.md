@@ -60,25 +60,27 @@ pip install -r requirements.txt
 ### ✅ Sample Predictions
 
 - **Healthy Arecanut Leaf**
-![Healthy Arecanut Leaf](hardware/e8cf524a-798b-48e6-9215-f4ee30c3c3d2.png)
+![Healthy Arecanut Leaf](Images/healthy_acrea_leaf.jpg)
+
 
 - **Arecanut Yellow Leaf Disease**
-![Yellow Leaf Disease](hardware/6ba339bb-8e5b-47f1-a5b0-b0fa864b8751.png)
+![Yellow Leaf Disease](Images/yellow_acrea_leaf.jpg)
+
 
 - **Other Leaf**
-![Other Leaf](hardware/e50dc2e9-a408-4620-9bd2-f5c6032a6e4c.jpg)
+![Other Leaf](Images/other_leaf.jpg)
 
 ---
 
 ### 📊 Confusion Matrix
 
-![Confusion Matrix](hardware/e193acb7-80b1-4a9c-9b9a-3b5a7885724c.png)
+![Confusion Matrix](Images/confusion_matrix.jpg)
 
 ---
 
 ### 📋 Classification Report
 
-![Classification Report](hardware/64278fa8-c589-4562-addf-ebcda54b3a53.png)
+![Classification Report](Images/classification_report.jpg)
 
 ---
 
