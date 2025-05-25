@@ -6,11 +6,11 @@ This project presents an AI and IoT-based solution for detecting **Yellow Leaf D
 
 ## 🚀 Features
 
-- 🔍 **Real-time disease detection** using ResNet-50
-- 🧠 **Classifies leaves** into Healthy, Yellow Leaf, Other, and No Leaf
-- 🚁 **Autonomous pesticide spraying** via ESP32 and 12V pump
-- 🧰 **Drone-compatible**, lightweight and modular hardware design
-- 📈 **Achieved 99.35% validation accuracy**
+- 🔍 Real-time disease detection using ResNet-50
+- 🧠 Classifies leaves into Healthy, Yellow Leaf, Other, and No Leaf
+- 🚁 Autonomous pesticide spraying via ESP32 and 12V pump
+- 🧰 Drone-compatible, lightweight and modular hardware design
+- 📈 Achieved 99.35% validation accuracy
 
 ---
 
@@ -52,6 +52,39 @@ pip install -r requirements.txt
 3. **Trigger Relay** – Activates 12V pump to spray pesticide.
 4. **Precision Spraying** – Sprays for exactly 5 seconds.
 5. **Repeat** – Continues as the drone flies across the plantation.
+
+---
+
+## 🧪 Model Results
+
+### ✅ Sample Predictions
+
+- **Healthy Arecanut Leaf**
+![Healthy Arecanut Leaf](hardware/e8cf524a-798b-48e6-9215-f4ee30c3c3d2.png)
+
+- **Arecanut Yellow Leaf Disease**
+![Yellow Leaf Disease](hardware/6ba339bb-8e5b-47f1-a5b0-b0fa864b8751.png)
+
+- **Other Leaf**
+![Other Leaf](hardware/e50dc2e9-a408-4620-9bd2-f5c6032a6e4c.jpg)
+
+---
+
+### 📊 Confusion Matrix
+
+![Confusion Matrix](hardware/e193acb7-80b1-4a9c-9b9a-3b5a7885724c.png)
+
+---
+
+### 📋 Classification Report
+
+![Classification Report](hardware/64278fa8-c589-4562-addf-ebcda54b3a53.png)
+
+---
+
+### 🔁 Training Workflow
+
+![Training Flowchart](hardware/3ad46336-45cb-4c71-b514-2713eafe9a15.png)
 
 ---
 
