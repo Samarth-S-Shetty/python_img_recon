@@ -60,14 +60,16 @@ pip install -r requirements.txt
 ### ✅ Sample Predictions
 
 - **Healthy Arecanut Leaf**
+  
 ![Healthy Arecanut Leaf](Images/healthy_acrea_leaf.jpg)
 
 
 - **Arecanut Yellow Leaf Disease**
-![Yellow Leaf Disease](Images/yellow_acrea_leaf.jpg)
-
+  
+![Yellow Leaf Disease](Images/yellow_areca_leaf.jpg)
 
 - **Other Leaf**
+  
 ![Other Leaf](Images/other_leaf.jpg)
 
 ---
@@ -86,7 +88,7 @@ pip install -r requirements.txt
 
 ### 🔁 Training Workflow
 
-![Training Flowchart](hardware/3ad46336-45cb-4c71-b514-2713eafe9a15.png)
+![Training Flowchart](Images/trainig_flowchart.jpg)
 
 ---
 
